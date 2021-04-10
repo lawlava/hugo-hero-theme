@@ -12,7 +12,7 @@ Hero is a multi-page business theme with fullscreen hero images and fullwidth se
 
 ### Content Types
 
-- Services (Markdown)
+- Services (Markdown)d
 - Work/Portfolio (Markdown)
 - Features (Data)
 - About (Markdown, Single Page, Shortcodes)
